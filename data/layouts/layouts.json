@@ -468,7 +468,7 @@
       "name": "Route127_Layout",
       "width": 80,
       "height": 80,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_Mossdeep",
       "border_filepath": "data/layouts/Route127/border.bin",
       "blockdata_filepath": "data/layouts/Route127/map.bin",
@@ -9323,6 +9323,16 @@
       "border_height": 2,
       "border_width": 2,
       "layout_version": "frlg"
+    },
+    {
+      "id": "LAYOUT_OMENAI",
+      "name": "Omenai_Layout",
+      "width": 30,
+      "height": 24,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Omenai/border.bin",
+      "blockdata_filepath": "data/layouts/Omenai/map.bin"
     }
   ]
 }
