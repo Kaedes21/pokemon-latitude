@@ -1542,3 +1542,14 @@ const struct Tileset gTileset_HallOfFame =
 
 #endif // IS_FRLG
 
+
+const struct Tileset gTileset_CenterShansyel =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_CenterShansyel,
+    .palettes = gTilesetPalettes_CenterShansyel,
+    .metatiles = gMetatiles_CenterShansyel,
+    .metatileAttributes = gMetatileAttributes_CenterShansyel,
+    .callback = NULL,
+};

@@ -3049,3 +3049,22 @@ const u32 gTilesetTiles_General_Frlg[] = INCBIN_U32("data/tilesets/primary/gener
 
 #endif // IS_FRLG
 
+
+const u16 gTilesetPalettes_CenterShansyel[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/center_shansyel/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CenterShansyel[] = INCBIN_U32("data/tilesets/primary/center_shansyel/tiles.4bpp.lz");

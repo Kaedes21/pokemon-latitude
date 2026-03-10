@@ -9329,8 +9329,8 @@
       "name": "Omenai_Layout",
       "width": 30,
       "height": 24,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "primary_tileset": "gTileset_CenterShansyel",
+      "secondary_tileset": "gTileset_Mauville",
       "border_filepath": "data/layouts/Omenai/border.bin",
       "blockdata_filepath": "data/layouts/Omenai/map.bin"
     }

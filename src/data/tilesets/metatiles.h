@@ -410,3 +410,6 @@ const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary
 #endif // IS_FRLG
 
 
+
+const u16 gMetatiles_CenterShansyel[] = INCBIN_U16("data/tilesets/primary/center_shansyel/metatiles.bin");
+const u16 gMetatileAttributes_CenterShansyel[] = INCBIN_U16("data/tilesets/primary/center_shansyel/metatile_attributes.bin");
