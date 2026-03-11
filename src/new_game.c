@@ -134,7 +134,7 @@ static void ClearFrontierRecord(void)
 
 static void WarpSpawn(void)
 {
-    SetWarpDestination(MAP_GROUP(MAP_OMENAI), MAP_NUM(MAP_OMENAI), WARP_ID_NONE, 0, 0);
+    SetWarpDestination(MAP_GROUP(MAP_OMENAI), MAP_NUM(MAP_OMENAI), WARP_ID_NONE, -1, -1);
     WarpIntoMap();
 }
 
